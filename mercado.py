@@ -6,3 +6,6 @@ print (mercado)
 
 barrios=("prado","calazans","comuna13","pachelly")
 print (barrios)
+
+suma=(2 + 4)
+print (suma)

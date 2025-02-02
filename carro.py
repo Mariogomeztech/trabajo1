@@ -6,3 +6,6 @@ print (suma)
 
 
 
+
+barrios=("prado","calazans","comuna13","pachelly")
+print (barrios)
